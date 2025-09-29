@@ -1,4 +1,6 @@
 osfstorage-archive.zip
 DEPRECATED/
 dataset/
-model/
+.env
+model/A/checkpoint*
+model/B/checkpoint*
